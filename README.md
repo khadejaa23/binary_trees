@@ -13,7 +13,7 @@ implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 
 
-## Header File :file_folder:
+## Header File
 
 * [binary_trees.h](./binary_trees.h): Header file containing definitions and
 prototypes for all types and functions written for the project.
