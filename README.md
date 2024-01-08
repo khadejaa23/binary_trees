@@ -1,13 +1,13 @@
 # C - Binary trees
 
-This was a partner project in which we learned about the details, advantages,
+This was a project in which we learned about the details, advantages,
 and disadvantages of using trees as data structures. We learned about how to
 qualify trees as well as how to traverse them. Throughout the project, we
 implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Tests
 
-* [Tester](./Main_tester): Folder of test files for all tasks. Provided by ALX.
+* [Tester](./Main_tester) : Folder of test files for all tasks. Provided by ALX.
 
 ## Helper File
 
@@ -15,7 +15,7 @@ implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Header File
 
-* [binary_trees.h](./binary_trees.h): Header file containing definitions and
+* [binary_trees.h](./binary_trees.h) : Header file containing definitions and
 prototypes for all types and functions written for the project.
 
 Data Structures
